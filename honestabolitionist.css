@@ -92,13 +92,13 @@ body {
 
 @media (max-width: 660px){
 	p {
-		margin-left: 6% !important;
-		margin-right: 6% !important;
+		margin-left: 7% !important;
+		margin-right: 7% !important;
 	}
 
 	h1 {
-		margin-left: 6% !important;
-		margin-right: 6% !important;
+		margin-left: 7% !important;
+		margin-right: 7% !important;
 	}
 
 	h2 {
@@ -107,6 +107,6 @@ body {
 	}
 		body {
 	        padding-top: 3% !important;
-                padding-bottom: 5% !important;
+                padding-bottom: 7% !important;
 	}
 }
