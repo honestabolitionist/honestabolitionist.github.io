@@ -106,7 +106,7 @@ body {
 		margin-right: 10% !important;
 	}
 		body {
-	        padding-top: 4%;
-                padding-bottom: 4%;
+	        padding-top: 3% !important;
+                padding-bottom: 5% !important;
 	}
 }
