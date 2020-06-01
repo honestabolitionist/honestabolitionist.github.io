@@ -89,3 +89,19 @@ body {
   padding-bottom: 15%;
   background-color: #F5F5F5;
 }
+@media (max-width: 660px){
+	p {
+		margin-left: 5% !important;
+		margin-right: 5% !important;
+	}
+
+	h1 {
+		margin-left: 5% !important;
+		margin-right: 5% !important;
+	}
+
+	h2 {
+		margin-left: 10% !important;
+		margin-right: 10% !important;
+	}
+}
