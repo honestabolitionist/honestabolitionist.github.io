@@ -1,0 +1,91 @@
+p {
+  font-family: proxima-nova,sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-variant: normal;
+}
+
+b {
+  font-family: proxima-nova, sans-serif; 
+  font-weight: 600;
+  font-style: normal;
+  font-variant: bold;
+}
+
+i {
+  font-family: proxima-nova, sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+h1 {
+  font-family: utopia-std-display,serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+a {
+  font-family: proxima-nova,sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+h2 {
+  font-family: proxima-nova,sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-variant: normal;
+}
+
+p {
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  line-height: 2em;
+}
+
+p {
+  color: #404040;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+
+h1 {
+  font-size: 30px;
+  letter-spacing: 0.5px;
+}
+
+
+h1 {
+  color: #7DB198;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+
+a {
+  color: #7DB198;
+}
+
+
+a {
+cursor: pointer;
+}
+
+h2 {
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  line-height: 2em;
+}
+
+h2 {
+  color: #7DB198;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+body {
+  padding-top: 5%;
+  padding-bottom: 15%;
+  background-color: #F5F5F5;
+}
